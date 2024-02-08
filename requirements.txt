@@ -1,0 +1,4 @@
+streamlit
+pandas
+numpy
+nltk==3.6.2
