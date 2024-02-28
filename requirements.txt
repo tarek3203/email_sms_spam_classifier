@@ -1,6 +1,3 @@
 streamlit
-pandas
 sklearn
-numpy
-nltk == 3.6.2
-pickles
+nltk
