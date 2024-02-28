@@ -1,5 +1,5 @@
 streamlit
 pandas
 numpy
-nltk
+nltk == 3.6.2
 pickles
