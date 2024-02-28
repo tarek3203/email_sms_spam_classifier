@@ -1,3 +1,0 @@
-streamlit
-sklearn
-nltk == 3.6.2
